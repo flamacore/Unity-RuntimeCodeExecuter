@@ -1,0 +1,4 @@
+DISCAMLER:
+I AM NOT RESPONSIBLE FOR ANYTHING THAT MIGHT HAPPEN TO YOU OR YOUR GAME IF YOU ALLOW THIS TOOL TO BE USED BY ANYONE. PLEASE USE ONLY IF YOU KNOW WHAT YOU ARE DOING. IF YOU DO NOT UNDERSTAND WHAT THIS TOOL DOES EXACTLY, DO NOT USE IT OR SHIP IT.
+
+The CSharpCompiler folder included in this project does not belong to me. It was downloaded from a free licenced github project called “mcs-ICodeCompiler”  https://github.com/aeroson/mcs-ICodeCompiler . Credits go to the github user “aeroson”.
